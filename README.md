@@ -47,4 +47,6 @@ A implementação foi realizada em linguagem C com o Pico SDK e pode ser simulad
 
 ## LINK PARA O VÍDEO DA TAREFA: 
 
-EM BREVE
+https://drive.google.com/file/d/1F6G54c6PtD72qr3I0AVE-wA8UN7ya5ex/view?usp=sharing
+
+
